@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Assignment1</string>
+    <string name="label_subtype_generic">%s</string>
+    <string name="label_subtype_en_GB">English (GB)</string>
+
+    <string name="button_accept_nochar"></string>
+    <string name="inputmode_loading">inputmode loading…</string>
+    <string name="preferences_name">DrawInput Preferences</string>
 </resources>
